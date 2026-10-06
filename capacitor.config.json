@@ -1,6 +1,6 @@
 {
   "appId": "com.skyglass.game",
   "appName": "Skyglass",
-  "webDir": "www",
+  "webDir": ".",
   "backgroundColor": "#120a2e"
 }
